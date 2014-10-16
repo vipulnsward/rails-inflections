@@ -6,12 +6,12 @@ require 'rails/inflections/version'
 Gem::Specification.new do |spec|
   spec.name          = "rails-inflections"
   spec.version       = Rails::Inflections::VERSION
-  spec.authors       = ["Vipul A M"]
+  spec.authors       = ["Vipul A M", "Rails Contributors", "David Heinemeier Hansson"]
   spec.email         = ["vipulnsward@gmail.com"]
   spec.summary       = %q{\Rails Inflections on steriods}
   spec.description   = %q{Inflections from Rails are frozen, and most edge cases are broken. rails-inflections adds
                          missing rules, or corrects broken ones.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/vipulnsward/rails-inflections"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

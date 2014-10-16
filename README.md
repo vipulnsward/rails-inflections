@@ -1,6 +1,9 @@
 # Rails::Inflections
 
-Rails Inflections are frozen, since 
+Rails Inflections are frozen, and mostly broken for edge cases. This gem tries to add/fix/modify inflections, not accepted
+into rails code base. Most of the code is from the rails code base along with the test cases. Rails::Inflections just 
+adds some fixes on top of it.
+
 
 ## Installation
 
