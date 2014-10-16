@@ -21,10 +21,6 @@ Or install it yourself as:
 
     $ gem install rails-inflections
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Adding new inflections
 
 The aim is to keep up with valid inflection rules. When requesting new inflections, please provide information 
